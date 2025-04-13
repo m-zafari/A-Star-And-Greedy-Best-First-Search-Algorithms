@@ -10,3 +10,6 @@ A --> D --> E
 # Output A* Search
 Answer found with A* search
 A ---> D ---> E
+or
+A ---> D ---> C ---> E
+
